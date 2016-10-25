@@ -16,7 +16,7 @@ $(function() {
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/kenlintw', newWindow: false},
       { name: 'About'}
     ],
 
@@ -73,7 +73,7 @@ $(function() {
     tables: true,
     breaks: false,
     pedantic: false,
-    sanitize: false,
+    sanitize: true,
     smartLists: true,
     smartypants: false
   });
